@@ -9,9 +9,9 @@
 | Dataset ID | `576977` |
 | Location | Alaska |
 | Category | Food and Drink |
-| Full dataset size | 47 records |
-| Free sample size | 4 records (8.51%) |
-| Last export | 2026-04-16T21:42:27.448697+00:00 |
+| Full dataset size | 49 records |
+| Free sample size | 4 records (8.16%) |
+| Last export | 2026-04-23T16:46:03.631753+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-576977/releases/download/sample-latest/beamstation_576977_food_and_drink-us-ak_SAMPLE_DIST.csv) |
 
 ## What is in this sample
